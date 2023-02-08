@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my GitHub profile! 👋
 
-<li>I am a Senior at George Mason, graduating in December 2023. </li>
+<li>I am a Senior at George Mason, graduating in May 2024. </li>
 <li>Currently looking for an internship/research position over the Summer of 2023.</li>
 <li>Aside from academics, I am working on building a custom webpage.</li>
 
